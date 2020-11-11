@@ -1,3 +1,0 @@
-youtube.com,1.2.7.9,200
-ball.com,2.4.5.6,5
-apple.com,2.4.5.6,80
