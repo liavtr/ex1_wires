@@ -1,0 +1,3 @@
+google.com,12345,180
+facebook.com,546215,240
+yahoo.com,541348,10
